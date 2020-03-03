@@ -1,6 +1,6 @@
 {
   "titleBoard": {
-    "name": "Front End"
+    "name": "Contratar Front-End Engineer"
   },
   "columns": [
     {
@@ -9,21 +9,29 @@
         {
           "id": 2,
           "title": "Agendar as entrevistas",
-          "tags": ["RH"]
+          "tags": [
+            "RH"
+          ]
         },
         {
           "id": 3,
           "title": "Enviar os testes",
-          "tags": ["RH"]
+          "tags": [
+            "RH"
+          ]
         },
         {
           "id": 4,
           "title": "Corrigir o teste técnico",
-          "tags": ["Front-End"]
+          "tags": [
+            "Front-End"
+          ]
         },
         {
           "title": "fazer os filtros",
-          "tags": ["Front-End"],
+          "tags": [
+            "Front-End"
+          ],
           "members": [
             {
               "id": 5,
@@ -42,7 +50,10 @@
         {
           "id": 1,
           "title": "Elaborar o desafio técnico",
-          "tags": ["Back-End", "Front-End"],
+          "tags": [
+            "Back-End",
+            "Front-End"
+          ],
           "members": [
             {
               "id": 1,
@@ -68,7 +79,11 @@
       "cards": [
         {
           "title": "Drag and drop nos cards",
-          "tags": ["Design", "Front-End", "Back-End"],
+          "tags": [
+            "Design",
+            "Front-End",
+            "Back-End"
+          ],
           "members": [
             {
               "id": 4,
@@ -128,5 +143,11 @@
       "id": 7
     }
   ],
-  "tags": ["Design", "Front-End", "Back-End", "RH", "Todas"]
+  "tags": [
+    "Design",
+    "Front-End",
+    "Back-End",
+    "RH",
+    "Todas"
+  ]
 }
